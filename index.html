@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SNES Database</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1><span>SNES</span> Database</h1>
+    </header>  
+    <main>
+
+        <section>
+            <input id="campo-pesquisa" placeholder="Digite o nome do jogo aqui...">
+            <button onclick="buscar()">Buscar</button>
+        </section>
+
+        <section id="resultados-pesquisa" class="resultados-pesquisa"> 
+        </section>
+    </main>   
+    <script src="dados.js"></script>  
+    <script src="app.js"></script>
+    
+</body>
+</html>
