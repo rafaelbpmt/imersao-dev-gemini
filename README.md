@@ -1,6 +1,6 @@
 # SNES Database: Uma jornada pelo mundo dos jogos clássicos
 
-**O que é o SNES Database**
+**O que é o SNES Database?**
 
 Um projeto simples, mas divertido, que te permite buscar informações sobre seus jogos de SNES favoritos. 
 
