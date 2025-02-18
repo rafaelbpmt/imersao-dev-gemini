@@ -1,4 +1,4 @@
-# SNES Database: Uma jornada pelo mundo dos jogos clássicos
+# SNES Database
 
 **O que é o SNES Database?**
 
