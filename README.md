@@ -10,4 +10,4 @@ Um projeto simples, mas divertido, que te permite buscar informações sobre seu
 * **CSS:** Estilizando tudo para ficar bonito e fácil de usar.
 * **JavaScript:** A parte divertida! Fazendo a busca e exibindo os resultados.
 
-**Quer Projeto feito durante a Imersão deb com Google Gemini da Alura**
+**Projeto feito durante a Imersão deb com Google Gemini da Alura**
